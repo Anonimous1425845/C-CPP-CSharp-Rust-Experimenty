@@ -1,0 +1,2 @@
+/home/domino/C#compile/HelloWorld/bin/Release/net8.0/win-x64/publish/HelloWorld.pdb
+/home/domino/C#compile/HelloWorld/bin/Release/net8.0/win-x64/publish/HelloWorld.exe
